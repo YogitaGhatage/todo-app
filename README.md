@@ -23,7 +23,7 @@ To install the React Todo App, follow these steps:
 
 1. Clone the repository: git clone https://github.com/YogitaGhatage/todo-app
 
-2. Navigate to the project directory: cd react-todo-app
+2. Navigate to the project directory: cd todo-app
 
 3. Install the dependencies:npm install
 
